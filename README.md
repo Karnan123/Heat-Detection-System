@@ -3,6 +3,6 @@ Welcome to the Heat Stroke Detection System repository. This project was created
 
 <h2>Features</h2> 
 
-**User-Friendly Design:** The system is tailored to be easy to use, making it ideal for the elderly.
-**Alert System:** Uses LED bulbs and sound to notify users of temperature changes.
-**Efficient Development:** We followed a structured approach, incorporating TinkerCad simulations, Gantt Charts, and S.M.A.R.T. Goals to ensure a timely and successful project completion.
+- **User-Friendly Design:** The system is tailored to be easy to use, making it ideal for the elderly.
+- **Alert System:** Uses LED bulbs and sound to notify users of temperature changes.
+- **Efficient Development:** We followed a structured approach, incorporating TinkerCad simulations, Gantt Charts, and S.M.A.R.T. Goals to ensure a timely and successful project completion.
